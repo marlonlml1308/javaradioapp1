@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">+RADIOPB</string>
+    <string name="now_playing">Reproduciendo:</string>
+    <string name="radio_description">La radio de todos</string>
+
+    <!-- media viewer and radio-->
+    <string name="volume_low">¡Sube tu volumen!</string>
+    <string name="notification_playing">Estas Escuchando:</string>
+    <string name="toggle_fullscreen">Alternar pantalla completa</string>
+    <string name="audio_notification">Reproducción multimedia en segundo plano</string>
+    <string name="error_retry">No se pudo conectar a la transmisión&#8230;</string>
+    <string name="error_retry_later">Vuelva a intentarlo en unos segundos.&#8230;</string>
+    <string name="radio_playing_other">Ya estoy reproduciendo otra estación. Presiona reproducir nuevamente para reproducir esta estación en su lugar.</string>
+    <string name="empty_textview">Error al cargar datos</string>
+
+    <!--connection-->
+    <string name="dialog_connection_title">Servidores inalcanzables</string>
+    <string name="dialog_connection_description">No podemos conectarnos con nuestras API.\n\n¡Asegúrese de haber configurado sus claves y parámetros de API como se documenta!</string>
+    <string name="dialog_internet_title">Sin internet</string>
+    <string name="dialog_internet_description">Parece que no tienes conexión a Internet, esta aplicación requiere Internet para cargar el contenido.</string>
+    <string name="no_network">¡Error al conectar la red!</string>
+    <string name="ok">OK</string>
+
+    <!--exit dialog-->
+    <string name="message">¿Qué es lo que quieres hacer?</string>
+    <string name="quit">Salir</string>
+    <string name="minimize">Minimizar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="background">background</string>
+
+
+</resources>

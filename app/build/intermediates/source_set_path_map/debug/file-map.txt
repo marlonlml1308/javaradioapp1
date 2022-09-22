@@ -1,0 +1,28 @@
+com.vectorsol.masradiopb.app-media-1.0.0-0 C:\Gradle\caches\transforms-3\132ebfe7e1156a38a0518d12fa344ffe\transformed\media-1.0.0\res
+com.vectorsol.masradiopb.app-appcompat-1.3.0-1 C:\Gradle\caches\transforms-3\19b5760682575a47a5f872e1af9c8173\transformed\appcompat-1.3.0\res
+com.vectorsol.masradiopb.app-material-1.6.1-2 C:\Gradle\caches\transforms-3\23d28a548e4ca00336944fa0ea8a2ee5\transformed\material-1.6.1\res
+com.vectorsol.masradiopb.app-jetified-dexter-4.2.0-3 C:\Gradle\caches\transforms-3\2cd277e2dc9fc39fd01396ff67f8021a\transformed\jetified-dexter-4.2.0\res
+com.vectorsol.masradiopb.app-jetified-roundedimageview-2.3.0-4 C:\Gradle\caches\transforms-3\43eb117d3a5b407b4804424ca876bb20\transformed\jetified-roundedimageview-2.3.0\res
+com.vectorsol.masradiopb.app-jetified-viewpager2-1.0.0-5 C:\Gradle\caches\transforms-3\4881680d79f4570c4430abbe24164f4d\transformed\jetified-viewpager2-1.0.0\res
+com.vectorsol.masradiopb.app-lifecycle-runtime-2.3.1-6 C:\Gradle\caches\transforms-3\53130d57cca39c152b792e246d84f853\transformed\lifecycle-runtime-2.3.1\res
+com.vectorsol.masradiopb.app-jetified-library-1.0.0-7 C:\Gradle\caches\transforms-3\5e39a2b5195ca2ce8df7692e1a1abaa5\transformed\jetified-library-1.0.0\res
+com.vectorsol.masradiopb.app-recyclerview-1.1.0-8 C:\Gradle\caches\transforms-3\8bbeb36f33a3b0a575d9bff4314d9c29\transformed\recyclerview-1.1.0\res
+com.vectorsol.masradiopb.app-transition-1.2.0-9 C:\Gradle\caches\transforms-3\94c2fcd892bf6f0a9e77116b3670e9ee\transformed\transition-1.2.0\res
+com.vectorsol.masradiopb.app-core-1.5.0-10 C:\Gradle\caches\transforms-3\9bd92eae1e9478afebc29f7e976b1930\transformed\core-1.5.0\res
+com.vectorsol.masradiopb.app-drawerlayout-1.1.1-11 C:\Gradle\caches\transforms-3\9f228de26299898857b764760550c05d\transformed\drawerlayout-1.1.1\res
+com.vectorsol.masradiopb.app-cardview-1.0.0-12 C:\Gradle\caches\transforms-3\b3a7565c1b6ab39d992aa82493370f07\transformed\cardview-1.0.0\res
+com.vectorsol.masradiopb.app-constraintlayout-2.0.4-13 C:\Gradle\caches\transforms-3\b3fb3b30b7e0d5345fe5c8858e2de3f4\transformed\constraintlayout-2.0.4\res
+com.vectorsol.masradiopb.app-jetified-exoplayer-ui-2.9.6-14 C:\Gradle\caches\transforms-3\b6eb6e1c5d406d9a9b10bce8ad7d3619\transformed\jetified-exoplayer-ui-2.9.6\res
+com.vectorsol.masradiopb.app-jetified-appcompat-resources-1.3.0-15 C:\Gradle\caches\transforms-3\c54122a0e6afbf7a7522b8f513ac0e51\transformed\jetified-appcompat-resources-1.3.0\res
+com.vectorsol.masradiopb.app-lifecycle-viewmodel-2.3.1-16 C:\Gradle\caches\transforms-3\e6f94f5ec40690dfd921a0d6d41ccec9\transformed\lifecycle-viewmodel-2.3.1\res
+com.vectorsol.masradiopb.app-coordinatorlayout-1.1.0-17 C:\Gradle\caches\transforms-3\f6c0cd868b2ae6584b4b9d82caab7990\transformed\coordinatorlayout-1.1.0\res
+com.vectorsol.masradiopb.app-fragment-1.3.4-18 C:\Gradle\caches\transforms-3\f6e0e465c3d977a5702efe58c6400986\transformed\fragment-1.3.4\res
+com.vectorsol.masradiopb.app-jetified-savedstate-1.1.0-19 C:\Gradle\caches\transforms-3\fcd28cbcd35d0a6dc293550c96c89484\transformed\jetified-savedstate-1.1.0\res
+com.vectorsol.masradiopb.app-pngs-20 C:\Users\Marlon Orozco\MasradioPBapp\app\build\generated\res\pngs\debug
+com.vectorsol.masradiopb.app-resValues-21 C:\Users\Marlon Orozco\MasradioPBapp\app\build\generated\res\resValues\debug
+com.vectorsol.masradiopb.app-rs-22 C:\Users\Marlon Orozco\MasradioPBapp\app\build\generated\res\rs\debug
+com.vectorsol.masradiopb.app-mergeDebugResources-23 C:\Users\Marlon Orozco\MasradioPBapp\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.vectorsol.masradiopb.app-mergeDebugResources-24 C:\Users\Marlon Orozco\MasradioPBapp\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.vectorsol.masradiopb.app-merged_res-25 C:\Users\Marlon Orozco\MasradioPBapp\app\build\intermediates\merged_res\debug
+com.vectorsol.masradiopb.app-debug-26 C:\Users\Marlon Orozco\MasradioPBapp\app\src\debug\res
+com.vectorsol.masradiopb.app-main-27 C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\res

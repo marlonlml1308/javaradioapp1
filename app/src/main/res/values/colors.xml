@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">@color/red</color>
+
+    <color name="bg_tint_color">#7C7C7C</color>
+    <color name="album_art_tint_color">@color/red</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0033</color>
+    <color name="transparent">#0000FF00</color>
+</resources>

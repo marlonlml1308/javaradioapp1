@@ -1,0 +1,311 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Gradle\caches\transforms-3\b830878dc184c5e1a1f92e59e2837685\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Gradle\caches\transforms-3\5fdc9aaf921daf3796f1b8124ac16f6b\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.karumi:dexter:4.2.0] C:\Gradle\caches\transforms-3\2cd277e2dc9fc39fd01396ff67f8021a\transformed\jetified-dexter-4.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Gradle\caches\transforms-3\23d28a548e4ca00336944fa0ea8a2ee5\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Gradle\caches\transforms-3\b3fb3b30b7e0d5345fe5c8858e2de3f4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Gradle\caches\transforms-3\19b5760682575a47a5f872e1af9c8173\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Gradle\caches\transforms-3\da4600c7df6573c51641ca62c4313776\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.claucookie.miniequalizer:library:1.0.0] C:\Gradle\caches\transforms-3\5e39a2b5195ca2ce8df7692e1a1abaa5\transformed\jetified-library-1.0.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.6] C:\Gradle\caches\transforms-3\809f5fff0bb1616b295148a9b79a95e8\transformed\jetified-exoplayer-2.9.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Gradle\caches\transforms-3\db3885296a21b3fd32b478dcc24760db\transformed\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Gradle\caches\transforms-3\43eb117d3a5b407b4804424ca876bb20\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Gradle\caches\transforms-3\4881680d79f4570c4430abbe24164f4d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Gradle\caches\transforms-3\f6e0e465c3d977a5702efe58c6400986\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Gradle\caches\transforms-3\7ad66f4ef0f078232e71f02de82bfac9\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Gradle\caches\transforms-3\c54122a0e6afbf7a7522b8f513ac0e51\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Gradle\caches\transforms-3\9a3486a6bdc5bd3d81f62a61a39308e6\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Gradle\caches\transforms-3\9f228de26299898857b764760550c05d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Gradle\caches\transforms-3\f6c0cd868b2ae6584b4b9d82caab7990\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Gradle\caches\transforms-3\5523e1e434a452edba17b0b22c1fe5a7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Gradle\caches\transforms-3\94c2fcd892bf6f0a9e77116b3670e9ee\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Gradle\caches\transforms-3\a24f00ffcdea74534051972ceee1f615\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Gradle\caches\transforms-3\5c5e9d2f746af0499eed068855144b3a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.6] C:\Gradle\caches\transforms-3\b6eb6e1c5d406d9a9b10bce8ad7d3619\transformed\jetified-exoplayer-ui-2.9.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Gradle\caches\transforms-3\132ebfe7e1156a38a0518d12fa344ffe\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Gradle\caches\transforms-3\9a1556fdf918bd792a15a5ac35345a14\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Gradle\caches\transforms-3\060c30fafa7b90d5d47d23a577e26f24\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Gradle\caches\transforms-3\e3c0d8dab2ed52d3c8d2866ee79f13d3\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Gradle\caches\transforms-3\8bbeb36f33a3b0a575d9bff4314d9c29\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Gradle\caches\transforms-3\55eaaa8d0a4ec44716953ec4fadbe3a8\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Gradle\caches\transforms-3\517da7ffed0245c9305d8a238e5c0f73\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Gradle\caches\transforms-3\8343f75acc9352d074b190e0bfa4b0af\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Gradle\caches\transforms-3\cd39ff6873be1c7428383916f3965d91\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Gradle\caches\transforms-3\9bd92eae1e9478afebc29f7e976b1930\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Gradle\caches\transforms-3\3f889c7467936023a22795d265c2d105\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Gradle\caches\transforms-3\29b2394ff14c4cb4fcaafe75231b73d9\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Gradle\caches\transforms-3\fcd28cbcd35d0a6dc293550c96c89484\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Gradle\caches\transforms-3\53130d57cca39c152b792e246d84f853\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Gradle\caches\transforms-3\e6f94f5ec40690dfd921a0d6d41ccec9\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Gradle\caches\transforms-3\b3a7565c1b6ab39d992aa82493370f07\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Gradle\caches\transforms-3\1c1734eeea810ed75d8a1a1aebf0053d\transformed\jetified-exoplayer-dash-2.9.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Gradle\caches\transforms-3\95cd163f8d290e8c7ca8535013771234\transformed\jetified-exoplayer-hls-2.9.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Gradle\caches\transforms-3\5062e16aae0b8547e9c602e3b07c7ff1\transformed\jetified-exoplayer-smoothstreaming-2.9.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Gradle\caches\transforms-3\ab9a71294cc4f3830700661115573ecb\transformed\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Gradle\caches\transforms-3\720294d2246907d73b886905b4f438b4\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\e63feeead04ef08b9b8cccc786d760b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Gradle\caches\transforms-3\03c24d32d0181affadd414607c386845\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Gradle\caches\transforms-3\405e9ce7104ac1ab7f3d2497c66a974a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Gradle\caches\transforms-3\6bf1e866a71872863491b41bf8da207e\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Gradle\caches\transforms-3\89c92b26bced7d0f81df4c5f7c1d8dd5\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Gradle\caches\transforms-3\572f2eaf19e886092ab0cd5bceac1126\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Gradle\caches\transforms-3\e118777c56bd6ef996c7161f41840496\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Gradle\caches\transforms-3\d684b04c7d1b966ef49d47b65dea9cd6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Gradle\caches\transforms-3\8a0d38e400d74b6506919809a0e7d3a5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Gradle\caches\transforms-3\8c19ac50318278e894df00524c1f1eff\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Gradle\caches\transforms-3\ab9a71294cc4f3830700661115573ecb\transformed\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Gradle\caches\transforms-3\ab9a71294cc4f3830700661115573ecb\transformed\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:9:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:11:22-72
+application
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:13:5-43:19
+MERGED from [com.karumi:dexter:4.2.0] C:\Gradle\caches\transforms-3\2cd277e2dc9fc39fd01396ff67f8021a\transformed\jetified-dexter-4.2.0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:4.2.0] C:\Gradle\caches\transforms-3\2cd277e2dc9fc39fd01396ff67f8021a\transformed\jetified-dexter-4.2.0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Gradle\caches\transforms-3\23d28a548e4ca00336944fa0ea8a2ee5\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Gradle\caches\transforms-3\23d28a548e4ca00336944fa0ea8a2ee5\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Gradle\caches\transforms-3\b3fb3b30b7e0d5345fe5c8858e2de3f4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Gradle\caches\transforms-3\b3fb3b30b7e0d5345fe5c8858e2de3f4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.claucookie.miniequalizer:library:1.0.0] C:\Gradle\caches\transforms-3\5e39a2b5195ca2ce8df7692e1a1abaa5\transformed\jetified-library-1.0.0\AndroidManifest.xml:9:5-12:19
+MERGED from [com.github.claucookie.miniequalizer:library:1.0.0] C:\Gradle\caches\transforms-3\5e39a2b5195ca2ce8df7692e1a1abaa5\transformed\jetified-library-1.0.0\AndroidManifest.xml:9:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Gradle\caches\transforms-3\db3885296a21b3fd32b478dcc24760db\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Gradle\caches\transforms-3\db3885296a21b3fd32b478dcc24760db\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.5.0] C:\Gradle\caches\transforms-3\9bd92eae1e9478afebc29f7e976b1930\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Gradle\caches\transforms-3\9bd92eae1e9478afebc29f7e976b1930\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\e63feeead04ef08b9b8cccc786d760b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\e63feeead04ef08b9b8cccc786d760b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Gradle\caches\transforms-3\9bd92eae1e9478afebc29f7e976b1930\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:17:9-54
+	tools:targetApi
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:21:9-28
+	android:icon
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:19:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:20:9-44
+activity#com.vectorsol.masradiopb.activities.MainActivity
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:23:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:27:13-49
+	android:launchMode
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:26:13-43
+	android:allowBackup
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:25:13-39
+	android:theme
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:24:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:32:27-74
+service#com.vectorsol.masradiopb.services.RadioService
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:36:9-82
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:36:18-79
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:38:9-42:20
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:38:19-76
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:39:13-41:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml:40:25-74
+uses-sdk
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Gradle\caches\transforms-3\b830878dc184c5e1a1f92e59e2837685\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Gradle\caches\transforms-3\b830878dc184c5e1a1f92e59e2837685\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Gradle\caches\transforms-3\5fdc9aaf921daf3796f1b8124ac16f6b\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Gradle\caches\transforms-3\5fdc9aaf921daf3796f1b8124ac16f6b\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.karumi:dexter:4.2.0] C:\Gradle\caches\transforms-3\2cd277e2dc9fc39fd01396ff67f8021a\transformed\jetified-dexter-4.2.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:4.2.0] C:\Gradle\caches\transforms-3\2cd277e2dc9fc39fd01396ff67f8021a\transformed\jetified-dexter-4.2.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Gradle\caches\transforms-3\23d28a548e4ca00336944fa0ea8a2ee5\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Gradle\caches\transforms-3\23d28a548e4ca00336944fa0ea8a2ee5\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Gradle\caches\transforms-3\b3fb3b30b7e0d5345fe5c8858e2de3f4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Gradle\caches\transforms-3\b3fb3b30b7e0d5345fe5c8858e2de3f4\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Gradle\caches\transforms-3\19b5760682575a47a5f872e1af9c8173\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Gradle\caches\transforms-3\19b5760682575a47a5f872e1af9c8173\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Gradle\caches\transforms-3\da4600c7df6573c51641ca62c4313776\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Gradle\caches\transforms-3\da4600c7df6573c51641ca62c4313776\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.claucookie.miniequalizer:library:1.0.0] C:\Gradle\caches\transforms-3\5e39a2b5195ca2ce8df7692e1a1abaa5\transformed\jetified-library-1.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.claucookie.miniequalizer:library:1.0.0] C:\Gradle\caches\transforms-3\5e39a2b5195ca2ce8df7692e1a1abaa5\transformed\jetified-library-1.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.6] C:\Gradle\caches\transforms-3\809f5fff0bb1616b295148a9b79a95e8\transformed\jetified-exoplayer-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.6] C:\Gradle\caches\transforms-3\809f5fff0bb1616b295148a9b79a95e8\transformed\jetified-exoplayer-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Gradle\caches\transforms-3\db3885296a21b3fd32b478dcc24760db\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Gradle\caches\transforms-3\db3885296a21b3fd32b478dcc24760db\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Gradle\caches\transforms-3\43eb117d3a5b407b4804424ca876bb20\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Gradle\caches\transforms-3\43eb117d3a5b407b4804424ca876bb20\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Gradle\caches\transforms-3\4881680d79f4570c4430abbe24164f4d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Gradle\caches\transforms-3\4881680d79f4570c4430abbe24164f4d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Gradle\caches\transforms-3\f6e0e465c3d977a5702efe58c6400986\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Gradle\caches\transforms-3\f6e0e465c3d977a5702efe58c6400986\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Gradle\caches\transforms-3\7ad66f4ef0f078232e71f02de82bfac9\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Gradle\caches\transforms-3\7ad66f4ef0f078232e71f02de82bfac9\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Gradle\caches\transforms-3\c54122a0e6afbf7a7522b8f513ac0e51\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Gradle\caches\transforms-3\c54122a0e6afbf7a7522b8f513ac0e51\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Gradle\caches\transforms-3\9a3486a6bdc5bd3d81f62a61a39308e6\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Gradle\caches\transforms-3\9a3486a6bdc5bd3d81f62a61a39308e6\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Gradle\caches\transforms-3\9f228de26299898857b764760550c05d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Gradle\caches\transforms-3\9f228de26299898857b764760550c05d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Gradle\caches\transforms-3\f6c0cd868b2ae6584b4b9d82caab7990\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Gradle\caches\transforms-3\f6c0cd868b2ae6584b4b9d82caab7990\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Gradle\caches\transforms-3\5523e1e434a452edba17b0b22c1fe5a7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Gradle\caches\transforms-3\5523e1e434a452edba17b0b22c1fe5a7\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Gradle\caches\transforms-3\94c2fcd892bf6f0a9e77116b3670e9ee\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Gradle\caches\transforms-3\94c2fcd892bf6f0a9e77116b3670e9ee\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Gradle\caches\transforms-3\a24f00ffcdea74534051972ceee1f615\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Gradle\caches\transforms-3\a24f00ffcdea74534051972ceee1f615\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Gradle\caches\transforms-3\5c5e9d2f746af0499eed068855144b3a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Gradle\caches\transforms-3\5c5e9d2f746af0499eed068855144b3a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.6] C:\Gradle\caches\transforms-3\b6eb6e1c5d406d9a9b10bce8ad7d3619\transformed\jetified-exoplayer-ui-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.6] C:\Gradle\caches\transforms-3\b6eb6e1c5d406d9a9b10bce8ad7d3619\transformed\jetified-exoplayer-ui-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Gradle\caches\transforms-3\132ebfe7e1156a38a0518d12fa344ffe\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Gradle\caches\transforms-3\132ebfe7e1156a38a0518d12fa344ffe\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Gradle\caches\transforms-3\9a1556fdf918bd792a15a5ac35345a14\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Gradle\caches\transforms-3\9a1556fdf918bd792a15a5ac35345a14\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Gradle\caches\transforms-3\060c30fafa7b90d5d47d23a577e26f24\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Gradle\caches\transforms-3\060c30fafa7b90d5d47d23a577e26f24\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Gradle\caches\transforms-3\e3c0d8dab2ed52d3c8d2866ee79f13d3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Gradle\caches\transforms-3\e3c0d8dab2ed52d3c8d2866ee79f13d3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Gradle\caches\transforms-3\8bbeb36f33a3b0a575d9bff4314d9c29\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Gradle\caches\transforms-3\8bbeb36f33a3b0a575d9bff4314d9c29\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Gradle\caches\transforms-3\55eaaa8d0a4ec44716953ec4fadbe3a8\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Gradle\caches\transforms-3\55eaaa8d0a4ec44716953ec4fadbe3a8\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Gradle\caches\transforms-3\517da7ffed0245c9305d8a238e5c0f73\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Gradle\caches\transforms-3\517da7ffed0245c9305d8a238e5c0f73\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Gradle\caches\transforms-3\8343f75acc9352d074b190e0bfa4b0af\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Gradle\caches\transforms-3\8343f75acc9352d074b190e0bfa4b0af\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Gradle\caches\transforms-3\cd39ff6873be1c7428383916f3965d91\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Gradle\caches\transforms-3\cd39ff6873be1c7428383916f3965d91\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Gradle\caches\transforms-3\9bd92eae1e9478afebc29f7e976b1930\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Gradle\caches\transforms-3\9bd92eae1e9478afebc29f7e976b1930\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Gradle\caches\transforms-3\3f889c7467936023a22795d265c2d105\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Gradle\caches\transforms-3\3f889c7467936023a22795d265c2d105\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Gradle\caches\transforms-3\29b2394ff14c4cb4fcaafe75231b73d9\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Gradle\caches\transforms-3\29b2394ff14c4cb4fcaafe75231b73d9\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Gradle\caches\transforms-3\fcd28cbcd35d0a6dc293550c96c89484\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Gradle\caches\transforms-3\fcd28cbcd35d0a6dc293550c96c89484\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Gradle\caches\transforms-3\53130d57cca39c152b792e246d84f853\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Gradle\caches\transforms-3\53130d57cca39c152b792e246d84f853\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Gradle\caches\transforms-3\e6f94f5ec40690dfd921a0d6d41ccec9\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Gradle\caches\transforms-3\e6f94f5ec40690dfd921a0d6d41ccec9\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Gradle\caches\transforms-3\b3a7565c1b6ab39d992aa82493370f07\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Gradle\caches\transforms-3\b3a7565c1b6ab39d992aa82493370f07\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Gradle\caches\transforms-3\1c1734eeea810ed75d8a1a1aebf0053d\transformed\jetified-exoplayer-dash-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] C:\Gradle\caches\transforms-3\1c1734eeea810ed75d8a1a1aebf0053d\transformed\jetified-exoplayer-dash-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Gradle\caches\transforms-3\95cd163f8d290e8c7ca8535013771234\transformed\jetified-exoplayer-hls-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] C:\Gradle\caches\transforms-3\95cd163f8d290e8c7ca8535013771234\transformed\jetified-exoplayer-hls-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Gradle\caches\transforms-3\5062e16aae0b8547e9c602e3b07c7ff1\transformed\jetified-exoplayer-smoothstreaming-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] C:\Gradle\caches\transforms-3\5062e16aae0b8547e9c602e3b07c7ff1\transformed\jetified-exoplayer-smoothstreaming-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Gradle\caches\transforms-3\ab9a71294cc4f3830700661115573ecb\transformed\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] C:\Gradle\caches\transforms-3\ab9a71294cc4f3830700661115573ecb\transformed\jetified-exoplayer-core-2.9.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Gradle\caches\transforms-3\720294d2246907d73b886905b4f438b4\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Gradle\caches\transforms-3\720294d2246907d73b886905b4f438b4\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\e63feeead04ef08b9b8cccc786d760b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Gradle\caches\transforms-3\e63feeead04ef08b9b8cccc786d760b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Gradle\caches\transforms-3\03c24d32d0181affadd414607c386845\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Gradle\caches\transforms-3\03c24d32d0181affadd414607c386845\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Gradle\caches\transforms-3\405e9ce7104ac1ab7f3d2497c66a974a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Gradle\caches\transforms-3\405e9ce7104ac1ab7f3d2497c66a974a\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Gradle\caches\transforms-3\6bf1e866a71872863491b41bf8da207e\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Gradle\caches\transforms-3\6bf1e866a71872863491b41bf8da207e\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Gradle\caches\transforms-3\89c92b26bced7d0f81df4c5f7c1d8dd5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Gradle\caches\transforms-3\89c92b26bced7d0f81df4c5f7c1d8dd5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Gradle\caches\transforms-3\572f2eaf19e886092ab0cd5bceac1126\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Gradle\caches\transforms-3\572f2eaf19e886092ab0cd5bceac1126\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Gradle\caches\transforms-3\e118777c56bd6ef996c7161f41840496\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Gradle\caches\transforms-3\e118777c56bd6ef996c7161f41840496\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Gradle\caches\transforms-3\d684b04c7d1b966ef49d47b65dea9cd6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Gradle\caches\transforms-3\d684b04c7d1b966ef49d47b65dea9cd6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Gradle\caches\transforms-3\8a0d38e400d74b6506919809a0e7d3a5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Gradle\caches\transforms-3\8a0d38e400d74b6506919809a0e7d3a5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Gradle\caches\transforms-3\8c19ac50318278e894df00524c1f1eff\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Gradle\caches\transforms-3\8c19ac50318278e894df00524c1f1eff\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marlon Orozco\MasradioPBapp\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:4.2.0] C:\Gradle\caches\transforms-3\2cd277e2dc9fc39fd01396ff67f8021a\transformed\jetified-dexter-4.2.0\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:4.2.0] C:\Gradle\caches\transforms-3\2cd277e2dc9fc39fd01396ff67f8021a\transformed\jetified-dexter-4.2.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:4.2.0] C:\Gradle\caches\transforms-3\2cd277e2dc9fc39fd01396ff67f8021a\transformed\jetified-dexter-4.2.0\AndroidManifest.xml:28:13-60
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Gradle\caches\transforms-3\db3885296a21b3fd32b478dcc24760db\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Gradle\caches\transforms-3\db3885296a21b3fd32b478dcc24760db\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Gradle\caches\transforms-3\db3885296a21b3fd32b478dcc24760db\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Gradle\caches\transforms-3\db3885296a21b3fd32b478dcc24760db\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64

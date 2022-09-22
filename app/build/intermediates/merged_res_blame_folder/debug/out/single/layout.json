@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-mergeDebugResources-24:\\layout\\activity_main.xml",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.vectorsol.masradiopb.app-mergeDebugResources-24:/layout/layout_bottom_sheet.xml",
+        "source": "com.vectorsol.masradiopb.app-main-27:/layout/layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.vectorsol.masradiopb.app-mergeDebugResources-24:/layout/activity_main.xml",
+        "source": "com.vectorsol.masradiopb.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-mergeDebugResources-24:\\layout\\layout_bottom_sheet.xml",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\layout\\layout_bottom_sheet.xml"
+    }
+]

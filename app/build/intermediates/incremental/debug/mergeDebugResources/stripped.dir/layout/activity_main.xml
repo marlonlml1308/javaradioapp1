@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.MainActivity">
+
+    <ImageView
+        android:id="@+id/bg_image_view"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/fondo_player"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/adLyt">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/lytHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="369dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/title_header"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="20sp"
+                            android:text="@string/app_name"
+                            android:textColor="@color/white"
+                            android:textSize="25sp" />
+
+                        <TextView
+                            android:id="@+id/title_description"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:text="@string/radio_description"
+                            android:textColor="@color/white" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/LinearLtyTop"
+                        android:layout_width="220dp"
+                        android:layout_height="220dp"
+                        android:layout_margin="20dp">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <com.makeramen.roundedimageview.RoundedImageView
+                                android:id="@+id/radio_album"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_centerInParent="true"
+                                android:scaleType="centerCrop"
+                                android:src="@drawable/album_art"
+                                app:riv_border_color="@color/white"
+                                app:riv_border_width="2dp"
+                                app:riv_corner_radius="30dp"
+                                app:riv_mutate_background="true" />
+
+                            <ProgressBar
+                                android:id="@+id/progressBar"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true" />
+
+                        </RelativeLayout>
+
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/buttonShow"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:background="@mipmap/ic_chat"
+                        android:translationX="150dp"
+                        android:translationY="-320dp"
+                        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/lyt_metadata"
+                    android:layout_width="match_parent"
+                    android:layout_height="842dp"
+                    android:layout_above="@id/adLyt"
+                    android:layout_below="@+id/lytHeader"
+                    android:layout_marginTop="20sp"
+                    android:orientation="vertical">
+
+                    <es.claucookie.miniequalizerlibrary.EqualizerView xmlns:custom="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/equalizer_view"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        custom:animDuration="3500"
+                        custom:foregroundColor="@color/white" />
+
+                    <TextView
+                        android:id="@+id/now_playing"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:text="@string/now_playing"
+                        android:textColor="@color/red"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/radio_description"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:text="@string/radio_description"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="116dp"
+                        android:gravity="center"
+                        android:padding="20dp">
+
+                        <com.google.android.material.floatingactionbutton.FloatingActionButton
+                            android:id="@+id/playBtn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:src="@drawable/ic_pause_white"
+                            app:backgroundTint="@color/red"
+                            app:fabSize="normal"
+                            tools:ignore="SpeakableTextPresentCheck" />
+
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="320dp"
+                        android:layout_height="50dp"
+                        android:background="@drawable/barrablanca"
+                        android:contentDescription="barrabtg"
+                        android:layout_gravity="center_horizontal"
+                        android:translationY="52dp"
+                        app:srcCompat="@drawable/barrablanca"
+                        tools:ignore="ImageContrastCheck" />
+
+                    <ImageButton
+                        android:id="@+id/imageButton7"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:background="@mipmap/ic_facebook_white_36dp"
+                        android:onClick="irFacebook"
+                        android:translationX="60dp"
+                        android:translationY="10dp"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <ImageButton
+                        android:id="@+id/imageButton8"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:background="@mipmap/ic_insta_white_36dp"
+                        android:onClick="irInstagram"
+                        android:translationX="120dp"
+                        android:translationY="-26dp"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <ImageButton
+                        android:id="@+id/imageButton9"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:background="@drawable/ic_youtube"
+                        android:onClick="irYoutube"
+                        android:translationX="180dp"
+                        android:translationY="-62dp"
+                        tools:ignore="ImageContrastCheck,TouchTargetSizeCheck" />
+
+                    <ImageButton
+                        android:id="@+id/imageButton10"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:background="@mipmap/ic_whatsapp_white_36dp"
+                        android:onClick="irWhatsapp"
+                        android:translationX="240dp"
+                        android:translationY="-98dp"
+                        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                    <ImageButton
+                        android:id="@+id/imageButton11"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:background="@mipmap/ic_website_white_36dp"
+                        android:onClick="irWeb"
+                        android:translationX="300dp"
+                        android:translationY="-134dp"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <WebView
+                        android:id="@+id/webView2"
+                        android:layout_width="380dp"
+                        android:layout_height="400dp"
+                        android:layout_gravity="center"
+                        android:translationY="-63dp" />
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/adLyt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:orientation="horizontal" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="39dp"
+        app:srcCompat="@mipmap/bar2"
+        app:layout_constraintBottom_toBottomOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

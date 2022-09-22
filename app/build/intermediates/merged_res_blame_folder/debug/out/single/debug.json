@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_album_art.webp.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\album_art.webp"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-xhdpi_ic_play.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-pngs-20:\\drawable-xhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-hdpi_ic_play.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-pngs-20:\\drawable-hdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\font_staatliches.ttf.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\font\\staatliches.ttf"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_chat.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\chat.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-xxhdpi_ic_play.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-pngs-20:\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_ic_youtube.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\ic_youtube.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_icchat.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\icchat.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-v24_ic_radio_playing.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable-v24\\ic_radio_playing.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_barrablanca.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\barrablanca.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-mdpi_ic_play.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-pngs-20:\\drawable-mdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-v24_ic_stop.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable-v24\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_ic_insta_white_36dp.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\ic_insta_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_icbarraredes.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\icbarraredes.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-anydpi-v21_ic_play.xml.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-pngs-20:\\drawable-anydpi-v21\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_barrablanca.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\barrablanca.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-xxxhdpi_ic_play.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-pngs-20:\\drawable-xxxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_ic_chat.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_ic_youtube.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\ic_youtube.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_barra1.jpg.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\barra1.jpg"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_fondo_chat.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\fondo_chat.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_ic_website_white_36dp.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\ic_website_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_fondo_player.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\fondo_player.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-ldpi_ic_play.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-pngs-20:\\drawable-ldpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-v24_ic_pause_white.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable-v24\\ic_pause_white.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\layout_layout_bottom_sheet.xml.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\layout\\layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.vectorsol.masradiopb.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.vectorsol.masradiopb.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.vectorsol.masradiopb.app-merged_res-25:/layout_layout_bottom_sheet.xml.flat",
+        "source": "com.vectorsol.masradiopb.app-main-27:/layout/layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable-v24_ic_play_white.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable-v24\\ic_play_white.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_ic_facebook_white_36dp.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\ic_facebook_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_ic_whatsapp_white_36dp.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\ic_whatsapp_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_bottom_sheet_background.xml.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\bottom_sheet_background.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_chat.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\chat.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_bar2.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\bar2.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_barra1.jpg.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\barra1.jpg"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\drawable_bar2.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\drawable\\bar2.png"
+    },
+    {
+        "merged": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-merged_res-25:\\mipmap-hdpi_chaticon.png.flat",
+        "source": "C:\\Gradle\\daemon\\7.5.1\\com.vectorsol.masradiopb.app-main-27:\\mipmap-hdpi\\chaticon.png"
+    }
+]
